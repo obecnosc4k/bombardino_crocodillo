@@ -42,6 +42,8 @@ function App() {
     const [isInitialized, setIsInitialized] = useState(false);
 
     let runs = 0;
+
+    const count = 123;
     
     async function initalizeDb(){
 
