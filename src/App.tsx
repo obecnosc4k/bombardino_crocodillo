@@ -66,7 +66,7 @@ function App() {
             configDir: config_dir,
         });
 
-        console.log("After invoking save_paths");
+        console.log("After  invoking save_paths");
 
         setIsInitialized(true);
     }
