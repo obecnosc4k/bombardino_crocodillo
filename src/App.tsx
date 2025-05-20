@@ -61,7 +61,7 @@ function App() {
         console.log("Before invoking save_paths");
 
         await invoke('save_paths', {
-            appData: app_data,
+            appData: app_data, maks krupski
             cacheDir: cache_dir,
             configDir: config_dir,
         });
